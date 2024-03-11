@@ -1,0 +1,16 @@
+{
+  "hosting": {
+    "public": "chintan227/Wype_Dashboard",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  }
+}

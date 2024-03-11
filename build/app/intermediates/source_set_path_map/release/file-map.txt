@@ -1,0 +1,24 @@
+com.example.wype_dashboard.app-jetified-window-1.0.0-beta04-0 /Users/chintan/.gradle/caches/transforms-3/25cee5f028ac2a6b79fd6278ff5b59e2/transformed/jetified-window-1.0.0-beta04/res
+com.example.wype_dashboard.app-jetified-play-services-basement-18.1.0-1 /Users/chintan/.gradle/caches/transforms-3/58aa1384bde170d075503b845cfcf44c/transformed/jetified-play-services-basement-18.1.0/res
+com.example.wype_dashboard.app-jetified-annotation-experimental-1.1.0-2 /Users/chintan/.gradle/caches/transforms-3/6c0c163cc77ae6c91f9f7dfcd179c29c/transformed/jetified-annotation-experimental-1.1.0/res
+com.example.wype_dashboard.app-browser-1.4.0-3 /Users/chintan/.gradle/caches/transforms-3/6d3bbaf4594b8ed85e4722883be764b3/transformed/browser-1.4.0/res
+com.example.wype_dashboard.app-core-1.6.0-4 /Users/chintan/.gradle/caches/transforms-3/7e9df2ac2213a6bd3cef0f2f27870d79/transformed/core-1.6.0/res
+com.example.wype_dashboard.app-jetified-play-services-base-18.0.1-5 /Users/chintan/.gradle/caches/transforms-3/aba8f806953ea3dd8f794da3aeb78a12/transformed/jetified-play-services-base-18.0.1/res
+com.example.wype_dashboard.app-jetified-window-java-1.0.0-beta04-6 /Users/chintan/.gradle/caches/transforms-3/ae81e06d24c799147c26814497a2a305/transformed/jetified-window-java-1.0.0-beta04/res
+com.example.wype_dashboard.app-jetified-firebase-common-20.4.2-7 /Users/chintan/.gradle/caches/transforms-3/e7d9dc77e05549f012842a2b34d6bb45/transformed/jetified-firebase-common-20.4.2/res
+com.example.wype_dashboard.app-main-8 /Users/chintan/Chintan/ FLutter Projects/wype_dashboard/android/app/src/main/res
+com.example.wype_dashboard.app-release-9 /Users/chintan/Chintan/ FLutter Projects/wype_dashboard/android/app/src/release/res
+com.example.wype_dashboard.app-pngs-10 /Users/chintan/Chintan/ FLutter Projects/wype_dashboard/build/app/generated/res/pngs/release
+com.example.wype_dashboard.app-resValues-11 /Users/chintan/Chintan/ FLutter Projects/wype_dashboard/build/app/generated/res/resValues/release
+com.example.wype_dashboard.app-rs-12 /Users/chintan/Chintan/ FLutter Projects/wype_dashboard/build/app/generated/res/rs/release
+com.example.wype_dashboard.app-mergeReleaseResources-13 /Users/chintan/Chintan/ FLutter Projects/wype_dashboard/build/app/intermediates/incremental/release/mergeReleaseResources/merged.dir
+com.example.wype_dashboard.app-mergeReleaseResources-14 /Users/chintan/Chintan/ FLutter Projects/wype_dashboard/build/app/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+com.example.wype_dashboard.app-merged_res-15 /Users/chintan/Chintan/ FLutter Projects/wype_dashboard/build/app/intermediates/merged_res/release
+com.example.wype_dashboard.app-packaged_res-16 /Users/chintan/Chintan/ FLutter Projects/wype_dashboard/build/cloud_firestore/intermediates/packaged_res/release
+com.example.wype_dashboard.app-packaged_res-17 /Users/chintan/Chintan/ FLutter Projects/wype_dashboard/build/connectivity_plus/intermediates/packaged_res/release
+com.example.wype_dashboard.app-packaged_res-18 /Users/chintan/Chintan/ FLutter Projects/wype_dashboard/build/firebase_auth/intermediates/packaged_res/release
+com.example.wype_dashboard.app-packaged_res-19 /Users/chintan/Chintan/ FLutter Projects/wype_dashboard/build/firebase_core/intermediates/packaged_res/release
+com.example.wype_dashboard.app-packaged_res-20 /Users/chintan/Chintan/ FLutter Projects/wype_dashboard/build/fluttertoast/intermediates/packaged_res/release
+com.example.wype_dashboard.app-packaged_res-21 /Users/chintan/Chintan/ FLutter Projects/wype_dashboard/build/nb_utils/intermediates/packaged_res/release
+com.example.wype_dashboard.app-packaged_res-22 /Users/chintan/Chintan/ FLutter Projects/wype_dashboard/build/path_provider_android/intermediates/packaged_res/release
+com.example.wype_dashboard.app-packaged_res-23 /Users/chintan/Chintan/ FLutter Projects/wype_dashboard/build/shared_preferences_android/intermediates/packaged_res/release
