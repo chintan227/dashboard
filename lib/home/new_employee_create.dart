@@ -162,7 +162,7 @@ class _NewEmployeeCreateState extends State<NewEmployeeCreate> {
                                         ValueItem(label: 'Silver wash', value: 2),
                                       ],
                                       selectionType: SelectionType.single,
-                                      showClearIcon: false,
+                                      // showClearIcon: false,
                                       chipConfig: const ChipConfig(wrapType: WrapType.wrap),
                                       optionTextStyle: const TextStyle(fontSize: 16),
                                       selectedOptionIcon: const Icon(Icons.check_circle),
