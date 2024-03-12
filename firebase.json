@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "chintan227/Wype_Dashboard",
+    "public": "chintan227/dashboard",
     "ignore": [
       "firebase.json",
       "**/.*",
